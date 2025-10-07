@@ -1,8 +1,8 @@
 working Prototype:
 https://sih25105.vercel.app/
 <DashBoard>
+<img width="1912" height="906" alt="image" src="https://github.com/user-attachments/assets/916eb727-0402-464e-b3b2-d49e19480f36" />
 
-<img width="1384" height="844" alt="image" src="https://github.com/user-attachments/assets/dc35b46f-4b27-4885-934e-d2cfd0ed3cfa" />
 
 
 
