@@ -4,6 +4,7 @@ https://sih25105.vercel.app/
 <img width="1912" height="906" alt="image" src="https://github.com/user-attachments/assets/916eb727-0402-464e-b3b2-d49e19480f36" />
 
 
+<img width="1893" height="882" alt="image" src="https://github.com/user-attachments/assets/0a1f39d0-0b05-4942-80b9-a33d4ab5e403" />
 
 
 
