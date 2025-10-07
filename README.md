@@ -5,6 +5,7 @@ https://sih25105.vercel.app/
 
 
 <img width="1893" height="882" alt="image" src="https://github.com/user-attachments/assets/0a1f39d0-0b05-4942-80b9-a33d4ab5e403" />
+<img width="1887" height="888" alt="image" src="https://github.com/user-attachments/assets/88639516-b2e5-4fa7-8022-67e9f3213326" />
 
 
 
