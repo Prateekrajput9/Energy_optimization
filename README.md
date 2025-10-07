@@ -5,7 +5,6 @@
 
 
 https://github.com/user-attachments/assets/c0463ee9-e57c-4ded-888b-a86e137a9dcc
-Here’s a clean and professional **README.md** for your Smart Energy Orchestration project — it explains everything clearly for SIH judges or GitHub presentation 👇
 
 ---
 
